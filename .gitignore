@@ -1,0 +1,5 @@
+*.key
+*.bin
+
+# Project exclude paths
+/target/
